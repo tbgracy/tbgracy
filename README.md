@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning dart/flutter
-- 📫 How to reach me: [Facebook](facebook.com/gracy.botramanagna)
+- 📫 How to reach me: [Facebook](https://facebook.com/gracy.botramanagna)
 - 😄 Pronouns: he/him
 <!--
 **tbgracy/tbgracy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
