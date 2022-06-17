@@ -4,7 +4,7 @@
 - 😄 Pronouns: he/him
 
 <p align='center'>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tbgracy&theme=tokyonight)](https://git.io/streak-stats)
+  <img src='https://github-readme-streak-stats.herokuapp.com?user=tbgracy' alt='Github stats'>
 </p>
 <!--
 **tbgracy/tbgracy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
