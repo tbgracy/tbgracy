@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🤓 The name's Gracy
 - 🌱 I’m currently learning dart/flutter
-- 📫 How to reach me: [Facebook](https://www.facebook.com/botramanagna.gracy)
+- 📫 You can to reach me on [Facebook](https://www.facebook.com/botramanagna.gracy)
 - 😄 Pronouns: he/him
 
 <p align='center'>
