@@ -4,6 +4,7 @@
 - 📫 You can reach me on [Facebook](https://www.facebook.com/botramanagna.gracy)
 - 😄 Pronouns: he/him
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
 <p align='center'>
   <img src='https://github-readme-streak-stats.herokuapp.com?user=tbgracy' alt='Github stats'>
 </p>
