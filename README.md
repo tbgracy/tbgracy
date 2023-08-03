@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🤓 The name's Gracy
-- 🌱 I’m currently learning dart/flutter
+- 🌱 I’m currently learning React/TypeScript ⚛️
 - 📫 You can reach me on [Facebook](https://www.facebook.com/botramanagna.gracy)
 - 😄 Pronouns: he/him
 
