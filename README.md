@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🤓 The name's Gracy
 - 🌱 I’m currently learning React/TypeScript ⚛️
-- 📫 You can reach me on [Facebook](https://www.facebook.com/botramanagna.gracy)
+- 📫 You can send me an email on [gtsierenana@gmail.com](gtsierenana@gmail.com)
 - 😄 Pronouns: he/him
 
 <p align='center'>
