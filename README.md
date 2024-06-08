@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🤓 The name's Gracy
 - 🌱 I’m currently learning React/TypeScript ⚛️
-- 📫 You can send me an email on [gtsierenana@gmail.com](gtsierenana@gmail.com)
+- 📫 You can send me an email on [gtsierenana@gmail.com](mailto:gtsierenana@gmail.com)
 - 😄 Pronouns: he/him
 
 <p align='center'>
