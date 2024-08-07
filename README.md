@@ -5,9 +5,6 @@
 - 😄 Pronouns: he/him
 
 <p align='center'>
-  <img src='https://komarev.com/ghpvc/?username=tbgracy&style=for-the-badge'>
-</p>
-<p align='center'>
   <img src='https://github-readme-streak-stats.herokuapp.com?user=tbgracy' alt='Github stats'>
 </p>
 <!--
