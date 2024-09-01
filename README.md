@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🤓 The name's Gracy
-- 🌱 I’m currently learning React/TypeScript ⚛️
-- 📫 You can send me an email on [gtsierenana@gmail.com](mailto:gtsierenana@gmail.com)
-- 😄 Pronouns: he/him
+- 🤓 The name is Gracy
+- 👨‍💻 Python and Typescript developer
+- 🌱 I’m currently learning React ⚛️
+- 📫 You can send me at [gtsierenana@gmail.com](mailto:gtsierenana@gmail.com)
 
 <p align='center'>
   <img src='https://github-readme-streak-stats.herokuapp.com?user=tbgracy' alt='Github stats'>
