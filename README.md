@@ -1,12 +1,8 @@
 ### Hi there 👋
 - 🤓 The name is Gracy
-- 👨‍💻 Python and Typescript developer
-- 🌱 I’m currently learning React ⚛️
-- 📫 You can send me at [gtsierenana@gmail.com](mailto:gtsierenana@gmail.com)
+- 👨‍💻 Python and Typescript developer with an emphasis on frontend stuff
+- 📫 You can contact me at [gtsierenana@gmail.com](mailto:gtsierenana@gmail.com) or on [linkedin](https://www.linkedin.com/in/tbgracy/)
 
-<p align='center'>
-  <img src='https://github-readme-streak-stats.herokuapp.com?user=tbgracy' alt='Github stats'>
-</p>
 <!--
 **tbgracy/tbgracy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
